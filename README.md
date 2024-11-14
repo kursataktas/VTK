@@ -1,4 +1,4 @@
-![VTK - The Visualization Toolkit][vtk-banner]
+![VTK - The Visualization Toolkit][vtk-banner] [![Gurubase](https://img.shields.io/badge/Gurubase-Ask%20VTK%20Guru-006BFF)](https://gurubase.io/g/vtk)
 
 Introduction
 ============
